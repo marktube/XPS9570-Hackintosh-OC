@@ -368,7 +368,7 @@
                     <key>BaseSkip</key>
                     <integer>0</integer>
                     <key>Comment</key>
-                    <string>Change _OSID to XSID (to avoid match against _OSI patch)&#xd;
+                    <string>Change _OSID to XSID (to avoid match against _OSI patch)&#xd;&#xd;&#xd;
 </string>
                     <key>Count</key>
                     <integer>0</integer>
@@ -513,7 +513,7 @@
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
-                    <data>AACbPg==</data>
+                    <data>CQClPg==</data>
                     <key>agdpmod</key>
                     <string>vit9696</string>
                     <key>disable-external-gpu</key>
@@ -893,7 +893,7 @@
                     <key>Comment</key>
                     <string>V1.0.9 | 1.0.8</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/NVMeFix</string>
                     <key>MaxKernel</key>
@@ -1320,7 +1320,7 @@
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
                     <key>boot-args</key>
-                    <string>darkwake=1 igfxfw=2 -v</string>
+                    <string>darkwake=1 igfxfw=2</string>
                     <key>csr-active-config</key>
                     <data>ZwAAAA==</data>
                 </dict>
