@@ -6,14 +6,15 @@ XPS9570 OpenCore configurations supported for Monterey(12.1)
 
 ### Hardware
 
-| Model          | XPS9570               | Enabled |
-| -------------- | --------------------- | ------- |
-| CPU            | i7-8750H(Coffee Lake) | ✅       |
-| Memory         | 16GB                  | ✅       |
-| Display        | Touch 4k Sharp        | ✅       |
-| HD             | Predator GM3500       | ✅       |
-| WiFi/Bluetooth | Killer Wireless 1535  | ❌       |
-| GPU            | GTX 1050Ti            | ❌       |
+| Model     | XPS9570               | Enabled |
+| --------- | --------------------- | ------- |
+| CPU       | i7-8750H(Coffee Lake) | ✅       |
+| Memory    | 16GB                  | ✅       |
+| Display   | Touch 4k Sharp        | ✅       |
+| HD        | Predator GM3500       | ✅       |
+| WiFi      | Killer Wireless 1535  | ❌       |
+| GPU       | GTX 1050Ti            | ❌       |
+| Bluetooth | Killer Wireless 1535  | ✅       |
 
 ### Sources
 
